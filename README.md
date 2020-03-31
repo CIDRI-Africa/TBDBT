@@ -17,3 +17,4 @@ REDCap person will connect the modules as per protocol or investigator instructi
 - Randomization (optional) ENABLED
     - For those studies that require randomization 
 
+## REDCap setup
